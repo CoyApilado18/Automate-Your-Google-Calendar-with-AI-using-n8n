@@ -170,7 +170,7 @@ Let's turn this calendar into a non-stop excitement machine!!! Scheduling has ne
 ### Observing agent behavior changes
 
 When I tested my workflow again, I noticed that my AI Agent responded enthusiastically. The tone changed with joy and high energy and this is exactly what I when I added the prompt.  
-[assistant-over-enthusiastic-response](https://github.com/CoyApilado18/Automate-Your-Google-Calendar-with-AI-using-n8n/blob/7f0aa3434133f5ef4356a0d26e986dc15175c0b6/images/assistant-over-enthusiastic-response.png)
+[alt images](https://github.com/CoyApilado18/Automate-Your-Google-Calendar-with-AI-using-n8n/blob/7f0aa3434133f5ef4356a0d26e986dc15175c0b6/images/assistant-over-enthusiastic-response.png)
 
 ### Adding constraints with system messages
 
